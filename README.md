@@ -1,0 +1,3 @@
+# ThriveTheme
+
+Have fun coding!!!
